@@ -1,0 +1,14 @@
+{
+    "name": "keep-space-connections",
+    "version": "1.0.0",
+    "title": "Keep Space Connections",
+    "author": "CrimsonKnight",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age",
+        "Redrawn-Space-Connections"
+    ],
+    "description": "This mod redraws the connection between Nauvis and Vulcanus, because Redrawn Space Connections removed it for me"
+
+}
