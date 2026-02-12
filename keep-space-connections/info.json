@@ -7,8 +7,9 @@
     "dependencies": [
         "base >= 2.0.0",
         "space-age",
-        "Redrawn-Space-Connections"
+        "Redrawn-Space-Connections",
+        "? slp-dyson-sphere-reworked"
     ],
-    "description": "This mod redraws the connection between Nauvis and Vulcanus, because Redrawn Space Connections removed it for me"
+    "description": "This mod redraws the connection between Nauvis and Vulcanus, because Redrawn Space Connections removed it for me. Now with added progression compatibility with SLP Dyson Sphere."
 
 }
